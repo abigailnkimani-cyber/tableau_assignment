@@ -2,11 +2,6 @@
 
 An interactive Tableau dashboard analysing sales on the Olist Brazilian e-commerce dataset, covering revenue trends, product categories, payment methods and customer ordering behaviour.
 
-
-## Dashboard preview
-
-![Sales Overview](screenshots/sales-overview.png)
-
 ## Dataset
 
 Brazilian E-Commerce Public Dataset by Olist (orders, order items, payments, products, customers and category translations), joined in Tableau. Prices and payment values are in Brazilian reais (R$).
