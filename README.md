@@ -2,7 +2,6 @@
 
 An interactive Tableau dashboard analysing sales on the Olist Brazilian e-commerce dataset, covering revenue trends, product categories, payment methods and customer ordering behaviour.
 
-**Live dashboard:** [Tableau Public link, if you published one]
 
 ## Dashboard preview
 
@@ -43,7 +42,6 @@ Payment value totals are higher than the revenue line chart because payment valu
 ## Files
 
 - `olist-dashboard.twbx`: Tableau packaged workbook
-- `screenshots/`: dashboard images
 
 ## Tools
 
